@@ -82,7 +82,7 @@ https://github.com/ninjaytxz/Sortify/assets/146098895/75443a48-add6-49e9-9005-16
 
 ## How To Download:
 
-1- Click on the green "Code" button on the top right and select "Download ZIP"
+1- Click on the green **Code** button on the top right and select **Download ZIP**
 
 2- Extract the downloaded zip file to your desired destination
 
@@ -103,7 +103,7 @@ https://github.com/ninjaytxz/Sortify/assets/146098895/75443a48-add6-49e9-9005-16
 
 
 
- **• Note: the Undo Sorting button now works based on the file names provided in the app, so if you name some of your folders the same as one of them they'll be affected.**
+ **• Note: the Undo Sorting button now works based on the folder names provided in the app, so if you name some of your folders the same as one of them they'll be affected.**
 
 
 &emsp;
