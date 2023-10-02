@@ -72,7 +72,10 @@ Sortify offers both light and dark themes to match your workspace preferences. T
 
 
 
-https://github.com/ninjaytxz/Sortify/assets/146098895/a93e8fa6-621d-4342-aa44-a306e2fd89c0
+
+https://github.com/ninjaytxz/Sortify/assets/146098895/75443a48-add6-49e9-9005-163c79eaa353
+
+
 
 
 
